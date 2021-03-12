@@ -10,7 +10,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="Model">
-        <COMPID name="project1" mc="Standard.Package" uid="a4ea663e-25e7-4ee2-8940-6a3bf15e4649"/>
+        <COMPID name="ProyectoU2" mc="Standard.Package" uid="a4ea663e-25e7-4ee2-8940-6a3bf15e4649"/>
       </COMP>
       <COMP relation="DiagramRoot">
         <COMPID name="Project1" mc="Infrastructure.DiagramSet" uid="4ecc2706-b448-41c1-ae6e-bddbe215e09b"/>
