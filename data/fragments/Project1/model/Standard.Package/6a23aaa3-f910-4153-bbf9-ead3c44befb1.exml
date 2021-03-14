@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Controladores" version="4">
+  <OBJECT>
+    <ID name="Controladores" mc="Standard.Package" uid="6a23aaa3-f910-4153-bbf9-ead3c44befb1"/>
+    <PID name="Clases" mc="Standard.Package" uid="fe825798-1d20-40ca-94d1-5a47fc362321"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Controladores]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ControladorUsuarios" mc="Standard.Class" uid="d6720002-9c09-48c5-9150-9ab24762f507"/>
+        <COMPID name="ControladorRequisitos" mc="Standard.Class" uid="629d782e-ba7f-480f-9357-ee688b8084fd"/>
+        <COMPID name="ControladorAlumnos" mc="Standard.Class" uid="b07dd76e-0407-4f63-b365-51612d6fbf76"/>
+        <COMPID name="ControladorAsignaciones" mc="Standard.Class" uid="b75063aa-2877-44ed-933d-eac0de891d40"/>
+        <COMPID name="ControladorAdmin" mc="Standard.Class" uid="94b29ada-ea48-4c12-b052-ba5bda55d8d0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Vistas" version="4">
+  <OBJECT>
+    <ID name="Vistas" mc="Standard.Package" uid="46fc7938-f397-4471-8e10-8323aae27a94"/>
+    <PID name="Clases" mc="Standard.Package" uid="fe825798-1d20-40ca-94d1-5a47fc362321"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Vistas]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="RespuestasUsuarios" mc="Standard.Class" uid="d9aabe2f-e864-467d-989f-b5db97c42c72"/>
+        <COMPID name="RespuestasRequisitos" mc="Standard.Class" uid="b148b31d-8b23-4291-9967-c28625bba378"/>
+        <COMPID name="RespuestasAlumnos" mc="Standard.Class" uid="fd71f817-5066-4aa0-8b3c-32863cc7c282"/>
+        <COMPID name="RepsuestasAsignaciones" mc="Standard.Class" uid="94b6f2dc-ce76-4a26-a9f5-5da6837239de"/>
+        <COMPID name="RespuestasAdmin" mc="Standard.Class" uid="479a157c-2b20-49dc-8221-9a187a907521"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

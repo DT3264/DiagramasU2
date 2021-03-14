@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelos" version="4">
+  <OBJECT>
+    <ID name="Modelos" mc="Standard.Package" uid="fd7dd3d1-961e-4561-9481-03cbb066cb7e"/>
+    <PID name="Clases" mc="Standard.Package" uid="fe825798-1d20-40ca-94d1-5a47fc362321"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelos]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Class" uid="138e276e-7f29-4bf8-8cf8-02a1d36a0c4b"/>
+        <COMPID name="DAOUsuario" mc="Standard.Class" uid="eccdcde8-5b78-44d8-9c0e-0abeebacccc5"/>
+        <COMPID name="Requisito" mc="Standard.Class" uid="fca6cb1c-6dee-49fa-8ba9-aa0a477bc383"/>
+        <COMPID name="RequisitoAlumno" mc="Standard.Class" uid="d6e74dd6-f660-4d56-a1ae-f91e2984ef61"/>
+        <COMPID name="DAORequisitos" mc="Standard.Class" uid="37fb11b9-4821-4fd9-9594-196124b7e53e"/>
+        <COMPID name="Alumno" mc="Standard.Class" uid="5adf55ce-e46a-48f6-b710-c56d6a3fb3eb"/>
+        <COMPID name="DAOAlumnos" mc="Standard.Class" uid="36a50f56-7086-4d80-bf5a-2e6ae85e7b30"/>
+        <COMPID name="Asignacion" mc="Standard.Class" uid="8713a9b9-1dde-4c54-966b-e520a5d5f105"/>
+        <COMPID name="AsignacionSubida" mc="Standard.Class" uid="ded356a8-f61a-44e8-b2d6-e3e0562cfd69"/>
+        <COMPID name="DAOAsignaciones" mc="Standard.Class" uid="87c1f8aa-0452-449f-9ffe-bbc2d1708c1e"/>
+        <COMPID name="Admin" mc="Standard.Class" uid="9066c2c5-25b6-48fa-9879-a8864eae1c0e"/>
+        <COMPID name="DAOAdmin" mc="Standard.Class" uid="19fef42d-92df-4f0b-bde2-e04f19d8e973"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

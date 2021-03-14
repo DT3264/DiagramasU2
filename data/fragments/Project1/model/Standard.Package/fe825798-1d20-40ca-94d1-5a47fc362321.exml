@@ -14,7 +14,9 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="ClaseEjemplo" mc="Standard.Class" uid="950e4377-55d5-46bb-9d7a-7dda5f953669"/>
+        <COMPID name="Controladores" mc="Standard.Package" uid="6a23aaa3-f910-4153-bbf9-ead3c44befb1"/>
+        <COMPID name="Vistas" mc="Standard.Package" uid="46fc7938-f397-4471-8e10-8323aae27a94"/>
+        <COMPID name="Modelos" mc="Standard.Package" uid="fd7dd3d1-961e-4561-9481-03cbb066cb7e"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="DiagramaDeClases" mc="Standard.ClassDiagram" uid="245693bd-00ac-494b-b9a3-e2d2c4851420"/>
