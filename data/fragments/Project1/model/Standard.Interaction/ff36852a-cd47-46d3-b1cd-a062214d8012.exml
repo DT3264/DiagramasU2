@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SecuenciaRF_03" version="4">
   <OBJECT>
-    <ID name="Interaction" mc="Standard.Interaction" uid="ff36852a-cd47-46d3-b1cd-a062214d8012"/>
-    <PID name="ProyectoU2" mc="Standard.Package" uid="a4ea663e-25e7-4ee2-8940-6a3bf15e4649"/>
+    <ID name="SecuenciaRF_03" mc="Standard.Interaction" uid="ff36852a-cd47-46d3-b1cd-a062214d8012"/>
+    <PID name="DiagramasSecuencia" mc="Standard.Package" uid="2225e0e9-817f-429c-b931-593c891a59b6"/>
     <ATTRIBUTES>
       <ATT name="IsReentrant">false</ATT>
-      <ATT name="Name"><![CDATA[Interaction]]></ATT>
+      <ATT name="Name"><![CDATA[SecuenciaRF_03]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
