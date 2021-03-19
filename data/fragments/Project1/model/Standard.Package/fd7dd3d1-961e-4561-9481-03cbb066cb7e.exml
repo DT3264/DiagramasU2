@@ -26,6 +26,8 @@
         <COMPID name="DAOAsignaciones" mc="Standard.Class" uid="87c1f8aa-0452-449f-9ffe-bbc2d1708c1e"/>
         <COMPID name="Admin" mc="Standard.Class" uid="9066c2c5-25b6-48fa-9879-a8864eae1c0e"/>
         <COMPID name="DAOAdmin" mc="Standard.Class" uid="19fef42d-92df-4f0b-bde2-e04f19d8e973"/>
+        <COMPID name="Programa" mc="Standard.Class" uid="89fe4119-9b9a-4138-b05c-ccf33859c2d6"/>
+        <COMPID name="DAOProgramas" mc="Standard.Class" uid="76ffc309-e963-43f7-bd92-b7f0ea43381a"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

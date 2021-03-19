@@ -19,6 +19,7 @@
         <COMPID name="RespuestasAlumnos" mc="Standard.Class" uid="fd71f817-5066-4aa0-8b3c-32863cc7c282"/>
         <COMPID name="RepsuestasAsignaciones" mc="Standard.Class" uid="94b6f2dc-ce76-4a26-a9f5-5da6837239de"/>
         <COMPID name="RespuestasAdmin" mc="Standard.Class" uid="479a157c-2b20-49dc-8221-9a187a907521"/>
+        <COMPID name="RespuestasProgramas" mc="Standard.Class" uid="fb22ed5c-69ab-4717-b4c4-9c51af2f3e3d"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

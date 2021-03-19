@@ -19,6 +19,7 @@
         <COMPID name="ControladorAlumnos" mc="Standard.Class" uid="b07dd76e-0407-4f63-b365-51612d6fbf76"/>
         <COMPID name="ControladorAsignaciones" mc="Standard.Class" uid="b75063aa-2877-44ed-933d-eac0de891d40"/>
         <COMPID name="ControladorAdmin" mc="Standard.Class" uid="94b29ada-ea48-4c12-b052-ba5bda55d8d0"/>
+        <COMPID name="ControladorProgramas" mc="Standard.Class" uid="86070b21-9ce2-42c3-b0db-be100734ad95"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
