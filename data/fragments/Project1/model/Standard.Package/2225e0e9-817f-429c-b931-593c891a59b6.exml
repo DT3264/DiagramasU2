@@ -15,7 +15,10 @@
     <DEPENDENCIES>
       <COMP relation="OwnedBehavior">
         <COMPID name="SecuenciaRF_03" mc="Standard.Interaction" uid="ff36852a-cd47-46d3-b1cd-a062214d8012"/>
-        <COMPID name="Interaction" mc="Standard.Interaction" uid="c4dc90af-d94c-444e-8cf5-7ec1931514b2"/>
+        <COMPID name="SecuenciaRF_04" mc="Standard.Interaction" uid="c4dc90af-d94c-444e-8cf5-7ec1931514b2"/>
+        <COMPID name="SecuenciaRF_06" mc="Standard.Interaction" uid="15ffc462-31f8-4561-b22b-398e5dca3847"/>
+        <COMPID name="SecuenciaRF_14" mc="Standard.Interaction" uid="56dd110f-1427-448d-82a1-6b997cd7d3bf"/>
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="32005ca6-8a5c-4caf-a762-9fccbdd8f4f6"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
